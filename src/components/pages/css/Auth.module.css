@@ -1,0 +1,9 @@
+.container{
+    background-image: url(../../../../public/assets/images/hr3.gif);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
